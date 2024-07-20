@@ -5,7 +5,7 @@ I am currently doing my BTech at Shiv Nadar University,India. I am passionate ab
 
 - 🔭 I’m currently working on my Internship involving Data Analytics and Recommendation Systems using Python and Pandas
 - 🌱 I’m currently learning about various concepts in ML,Deep Learning and NLP
-- 👯 I’m looking to collaborate on Projects involving Natural Language Processing
+- 👯 I’m looking to collaborate on Projects involving Natural Language Processing, possibly related language translation in Indian Languages
 
   ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/arjun-vijay-328591271/)
