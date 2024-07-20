@@ -13,7 +13,6 @@ I am currently doing my BTech at Shiv Nadar University,India. I am passionate ab
 
 ### GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arjun-Avadhanam&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunAvadhanam&layout=compact)
 
   
 
